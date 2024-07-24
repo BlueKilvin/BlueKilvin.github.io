@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<a href="moon/index.html">moon</a>
+Well this is awkward
